@@ -1,0 +1,14 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+
+h1 {
+	/* setting the background color to cyan */
+	background: #00FFFF;
+	/* setting text color to white */
+	color: #FFFFFF;
+	/* aligning text to center */
+	text-align: center;
+	/* Additional: underlining the heading text */
+	text-decoration: underline;
+}
